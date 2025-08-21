@@ -1,0 +1,1 @@
+    <?php include './category_details/website-onboarding-details.php'; ?>  
